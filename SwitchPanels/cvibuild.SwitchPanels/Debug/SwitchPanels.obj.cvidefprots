@@ -1,0 +1,60 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:29:5"
+
+[OnWavePanelCB]
+Class="Function"
+Prototype="int OnWavePanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:47:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:55:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:78:17"
+
+[filtru_mediere]
+Class="Function"
+Prototype="double *filtru_mediere(int n);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:159:9"
+
+[filtru_ordin1]
+Class="Function"
+Prototype="double *filtru_ordin1(double alpha);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:176:9"
+
+[OnFilterTypeCB]
+Class="Function"
+Prototype="int OnFilterTypeCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:186:17"
+
+[OnNextButton]
+Class="Function"
+Prototype="int OnNextButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:220:17"
+
+[OnPrevButton]
+Class="Function"
+Prototype="int OnPrevButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:260:17"
+
+[OnApplyButtonCB]
+Class="Function"
+Prototype="int OnApplyButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:299:17"
+
+[OnEnvelopeButtonCB]
+Class="Function"
+Prototype="int OnEnvelopeButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:314:17"
+
+[OnSaveButtonCB]
+Class="Function"
+Prototype="int OnSaveButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\SwitchPanels.c:334:17"
+

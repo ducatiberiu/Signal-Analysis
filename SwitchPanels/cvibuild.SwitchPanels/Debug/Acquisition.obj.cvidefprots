@@ -1,0 +1,20 @@
+[OnFrequencyPanelCB]
+Class="Function"
+Prototype="int OnFrequencyPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\Acquisition.c:23:17"
+
+[OnSpectrumButtonCB]
+Class="Function"
+Prototype="int OnSpectrumButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\Acquisition.c:41:17"
+
+[OnFilterButtonCB]
+Class="Function"
+Prototype="int OnFilterButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\Acquisition.c:70:17"
+
+[OnSaveButtonFreqCB]
+Class="Function"
+Prototype="int OnSaveButtonFreqCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Acer\Desktop\desktop\Practica, interviuri, licenta an 3\Linkedin profile\proiect final apd\SwitchPanels\SwitchPanels\Acquisition.c:193:17"
+
